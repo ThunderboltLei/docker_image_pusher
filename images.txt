@@ -1,4 +1,3 @@
-thunderboltlei/rockylinux_base_aarch64
 thunderboltlei/rockylinux_db_aarch64
 thunderboltlei/centos_bdcluster_db_aarch64
 thunderboltlei/rockylinux_searchplatform_db_aarch64 
