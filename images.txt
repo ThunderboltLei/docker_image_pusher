@@ -1,1 +1,1 @@
-thunderboltlei/centos_bdcluster_db_aarch64:202305061052
+thunderboltlei/rockylinux_searchplatform_db_aarch64:202305181450
